@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="collection view cell content view" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="q4f-VZ-AQc" customClass="FilterMissionCell" customModule="Ame_Digital" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="352" height="114"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="6Wr-4s-G5C">
+                <rect key="frame" x="0.0" y="0.0" width="352" height="114"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="mNx-sC-vbG">
+                        <rect key="frame" x="0.0" y="0.0" width="352" height="114"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Todas Todas Todas" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="o91-oH-89H" customClass="FilterMissionLabel" customModule="Ame_Digital" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="32" width="352" height="50"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="eoV-fN-v0o"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="114" id="uTi-vb-Bcl"/>
+                        </constraints>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="mNx-sC-vbG" secondAttribute="bottom" id="1LM-25-A3g"/>
+                    <constraint firstItem="mNx-sC-vbG" firstAttribute="leading" secondItem="6Wr-4s-G5C" secondAttribute="leading" id="5kw-1c-kmS"/>
+                    <constraint firstItem="mNx-sC-vbG" firstAttribute="top" secondItem="6Wr-4s-G5C" secondAttribute="top" id="dfc-mL-I10"/>
+                    <constraint firstAttribute="trailing" secondItem="mNx-sC-vbG" secondAttribute="trailing" id="oof-8F-f1B"/>
+                </constraints>
+            </collectionViewCellContentView>
+            <size key="customSize" width="352" height="114"/>
+            <connections>
+                <outlet property="filterLabel" destination="o91-oH-89H" id="BXR-f1-koo"/>
+            </connections>
+            <point key="canvasLocation" x="298.55072463768118" y="-45.535714285714285"/>
+        </collectionViewCell>
+    </objects>
+</document>

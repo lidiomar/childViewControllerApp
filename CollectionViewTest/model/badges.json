@@ -1,0 +1,686 @@
+[
+    {
+        "code": "BLA_250",
+        "name": "R$250 em compras",
+        "displayPriority": 12,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_com_a_BLA",
+            "name": "Compre com a BLA"
+        },
+        "tracker": {
+            "maxValue": 250,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "UnidadeDoBadge",
+                "value": "moeda"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver ofertas"
+            }
+        ],
+        "description": "As suas compras com BLA acumulam um saldo nas missões \"Compre com a BLA\".\r\nO saldo acumulado é válido durante a vigência do ciclo em questão.\r\nNão são contabilizadas transações das seguintes naturezas: transferências entre contas, Depósito de dinheiro na Conta BLA de qualquer origem, Envio / Recebimento de gifts."
+    },
+    {
+        "code": "BLA_500",
+        "name": "R$500 em compras",
+        "displayPriority": 13,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_com_a_BLA",
+            "name": "Compre com a BLA"
+        },
+        "tracker": {
+            "maxValue": 500,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver ofertas"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "moeda"
+            }
+        ],
+        "description": "As suas compras com BLA acumulam um saldo nas missões \"Compre com a BLA\".\r\nO saldo acumulado é válido durante a vigência do ciclo em questão.\r\nNão são contabilizadas transações das seguintes naturezas: transferências entre contas, Depósito de dinheiro na Conta BLA de qualquer origem, Envio / Recebimento de gifts."
+    },
+    {
+        "code": "BLA_750",
+        "name": "R$750 em compras",
+        "displayPriority": 14,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_com_a_BLA",
+            "name": "Compre com a BLA"
+        },
+        "tracker": {
+            "maxValue": 750,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver ofertas"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "moeda"
+            }
+        ],
+        "description": "As suas compras com BLA acumulam um saldo nas missões \"Compre com a BLA\".\r\nO saldo acumulado é válido durante a vigência do ciclo em questão.\r\nNão são contabilizadas transações das seguintes naturezas: transferências entre contas, Depósito de dinheiro na Conta BLA de qualquer origem, Envio / Recebimento de gifts."
+    },
+    {
+        "code": "BLA_1000",
+        "name": "R$1000 em compras",
+        "displayPriority": 15,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_com_a_BLA",
+            "name": "Compre com a BLA"
+        },
+        "tracker": {
+            "maxValue": 1000,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver ofertas"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "moeda"
+            }
+        ],
+        "description": "As suas compras com BLA acumulam um saldo nas missões \"Compre com a BLA\".\r\nO saldo acumulado é válido durante a vigência do ciclo em questão.\r\nNão são contabilizadas transações das seguintes naturezas: transferências entre contas, Depósito de dinheiro na Conta BLA de qualquer origem, Envio / Recebimento de gifts."
+    },
+    {
+        "code": "BLA_1500",
+        "name": "R$1500 em compras",
+        "displayPriority": 16,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_com_a_BLA",
+            "name": "Compre com a BLA"
+        },
+        "tracker": {
+            "maxValue": 1500,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver ofertas"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "moeda"
+            }
+        ],
+        "description": "As suas compras com BLA acumulam um saldo nas missões \"Compre com a BLA\".\r\nO saldo acumulado é válido durante a vigência do ciclo em questão.\r\nNão são contabilizadas transações das seguintes naturezas: transferências entre contas, Depósito de dinheiro na Conta BLA de qualquer origem, Envio / Recebimento de gifts."
+    },
+    {
+        "code": "BLA_COMPRE_B2W_1",
+        "name": "Faça 1 compra em lojas virtuais parceiras (Submarino, Shoptime e BLA)",
+        "displayPriority": 19,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Abrir BLA Shopping"
+            }
+        ],
+        "description": "Apenas compras no Submarino, Shoptime e BLA.com igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nEm caso de cancelamento total ou parcial da compra, a missão será estornada.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_COMPRE_B2W_3",
+        "name": "Faça 3 compras em lojas virtuais parceiras (Submarino, Shoptime e BLA)",
+        "displayPriority": 20,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 3,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Abrir BLA Shopping"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas compras no Submarino, Shoptime e BLA.com igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nEm caso de cancelamento total ou parcial da compra, a missão será estornada.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_OFF_FISICO",
+        "name": "Faça 1 compra em outras lojas físicas com a BLA",
+        "displayPriority": 23,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver lojas"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas compras em lojas físicas parceiros igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nAs compras em Postos Petrobras não são elegíveis para esta missão.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_OFF_DIGITAL",
+        "name": "Faça 1 compra em outros sites com a BLA",
+        "displayPriority": 24,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver sites"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas compras em sites ou apps parceiros igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nAs compras em Submarino, Shoptime e BLA.com não são elegíveis para esta missão.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_PAG_BOLETO",
+        "name": "Pague 1 boleto com BLA",
+        "displayPriority": 27,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_serviços_financ",
+            "name": "Contrate nossos serviços financeiros"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Pagar conta"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas pagamento de boletos de concessionárias são elegíveis para o alcance desta missão.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_PIXIN",
+        "name": "Receba dinheiro por uma das chaves PIX da BLA",
+        "displayPriority": 28,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_serviços_financ",
+            "name": "Contrate nossos serviços financeiros"
+        },
+        "tracker": {
+            "maxValue": 10,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Compartilhar chaves"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas recebimento de transferências via PIX para sua conta BLA igual ou acima a R$20,00 são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nPagamento realizados via PIX não são elegíveis a esta missão.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_DOACAO",
+        "name": "Faça uma doação",
+        "displayPriority": 30,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Engaje_com_a_BLA",
+            "name": "Engaje com a BLA"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Fazer uma doação"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Selecione, no App BLA, a ONG a qual deseja fazer sua doação e siga com as instruções para finalização de sua doação."
+    },
+    {
+        "code": "BLA_CASH_IN",
+        "name": "Adicione saldo em sua carteira BLA ",
+        "displayPriority": 29,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_serviços_financ",
+            "name": "Contrate nossos serviços financeiros"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Adicionar saldo"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas depósito de dinheiro na sua conta BLA igual ou acima a R$20,00 é elegível para o alcance desta missão.\r\nVálido para depósito em Lojas BLA fisicas, via cartão de crédito, via PIX ou via boleto.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_FINAN_EMP_SEG_CC",
+        "name": "Contrate cartão de crédito, seguro ou empréstimo BLA",
+        "displayPriority": 26,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_serviços_financ",
+            "name": "Contrate nossos serviços financeiros"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver serviços financeiros"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas a contratação de um cartão de crédito ou seguro ou empréstimo durante a vigência do ciclo são elegíveis para esta missão.\r\nPara a contratação de cartão de crédito é considerada a ativação do cartão de crédito.\r\nPara a contratação de seguros são considerados os produtos XXX.\r\nPara a contratação de empréstimo é considerado o pagamento de um parcela do empréstimo."
+    },
+    {
+        "code": "BLA_OFF_IN_APP",
+        "name": "Faça 1 compra de funcionalidade no App",
+        "displayPriority": 25,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_com_a_BLA",
+            "name": "Compre com a BLA"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver opções"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas compras no próprio Super App BLA igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão.\r\nSão elegíveis para esta missão a contratação de um dos seguintes serviços abaixo:\r\n- Em Entretenimento e Lazer: Gift Cards ou Gamer Zone ou Spotfy Pré Pago ou Tinder\r\n- Em Para andar pela cidade: Spotfy Pré Pago ou Uber Pré Pago ou Cartão de Transporte ou Passagem Rodoviária ou Bike Itaú ou BLA Drive\r\n- Em Alimentação: ou iFood Card ou Uber Eats\r\n- Em Para sua casa: Pets ou Diaristas ou Vale Gás ou Recarga de Celular ou Serviços ou Seguro Residencial ou Lavanderia Delivery\r\n- Para Saúde e Bem Estar: Dr. Consulta ou Teste de Covid ou W Dental ou Consulta Online ou Plantão Covis-19"
+    },
+    {
+        "code": "BLA_COMPRE_BR_3",
+        "name": "Faça 3 compras nos Postos Petrobras",
+        "displayPriority": 21,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 3,
+            "currValue": 0,
+            "displayTypeCode": "PC"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Buscar Posto Petrobras"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas compras nos Postos Petrobras igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_COMPRE_BR_10",
+        "name": "Faça 10 compras nos Postos Petrobras",
+        "displayPriority": 22,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 10,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Buscar Posto Petrobras"
+            }
+        ],
+        "description": "Apenas compras nos Postos Petrobras igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_COMPRE_LASA_1",
+        "name": "Faça 1 compra em uma loja física da BLA",
+        "displayPriority": 17,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 1,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver loja mais próxima"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            }
+        ],
+        "description": "Apenas compras nas Lojas BLA físicas igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nPara mais detalhes, consulte o regulamento do programa."
+    },
+    {
+        "code": "BLA_COMPRE_LASA_3",
+        "name": "Faça 3 compras em lojas físicas da BLA",
+        "displayPriority": 18,
+        "achieved": false,
+        "startDate": "2021-06-30T22:00:00",
+        "endDate": "2021-09-30T22:00:00",
+        "category": {
+            "code": "BLA_Compre_nos_nosso",
+            "name": "Compre nos nossos Parceiros"
+        },
+        "tracker": {
+            "maxValue": 3,
+            "currValue": 0,
+            "displayTypeCode": "ST"
+        },
+        "attributes": [
+            {
+                "code": "ATT01_DEEPLINK",
+                "value": "amedigital://app-transaction"
+            },
+            {
+                "code": "ATT01_IMG_URL",
+                "value": "https://www.amedigital.com/img/icon-512.png"
+            },
+            {
+                "code": "UnidadeDoBadge",
+                "value": "quantidade"
+            },
+            {
+                "code": "Call_To_Action",
+                "value": "Ver loja mais próxima"
+            }
+        ],
+        "description": "Apenas compras nas Lojas BLA físicas igual ou acima a R$20,00 e pagas com BLA são elegíveis para o alcance desta missão. Será considerada apenas uma transferência por dia.\r\nPara mais detalhes, consulte o regulamento do programa."
+    }
+]

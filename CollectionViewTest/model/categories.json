@@ -1,0 +1,22 @@
+[
+    {
+        "code": "BLA_Compre_com_a_BLA",
+        "name": "Compre com a BLA",
+        "displayPriority": 0
+    },
+    {
+        "code": "BLA_Compre_nos_nosso",
+        "name": "Compre nos nossos Parceiros",
+        "displayPriority": 1
+    },
+    {
+        "code": "BLA_serviços_financ",
+        "name": "Contrate nossos serviços financeiros",
+        "displayPriority": 2
+    },
+    {
+        "code": "BLA_Engaje_com_a_BLA",
+        "name": "Engaje com a BLA",
+        "displayPriority": 4
+    }
+]

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="113" id="KGk-i7-Jjw" customClass="BadgeTableViewCell" customModule="CollectionViewTest" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="384" height="96"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="384" height="96"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wbW-NG-Jkx" customClass="BadgeIndicatorView" customModule="CollectionViewTest" customModuleProvider="target">
+                        <rect key="frame" x="16" y="16" width="64" height="64"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="64" id="YTg-mj-Is8"/>
+                            <constraint firstAttribute="width" constant="64" id="jAF-rc-ik0"/>
+                        </constraints>
+                    </view>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="forwardIcon" translatesAutoresizingMaskIntoConstraints="NO" id="BfU-MJ-qkJ">
+                        <rect key="frame" x="344" y="36" width="24" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="24" id="OLH-mF-IMT"/>
+                            <constraint firstAttribute="width" constant="24" id="gET-lX-vMY"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Faça 1 compra em lojas virtuais parceiras (Submarino, Shoptime e Americanas) " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="ZG2-fp-lTj">
+                        <rect key="frame" x="96" y="16" width="232" height="64"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                        <color key="textColor" red="0.25882352939999997" green="0.18039215689999999" blue="0.43921568630000002" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lYJ-ve-aBx">
+                        <rect key="frame" x="0.0" y="95" width="384" height="1"/>
+                        <color key="backgroundColor" red="0.68627450980392157" green="0.68627450980392157" blue="0.83921568627450982" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="TrO-gI-fEX"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="lYJ-ve-aBx" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="46P-24-ip6"/>
+                    <constraint firstItem="BfU-MJ-qkJ" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="6ZD-HI-SNq"/>
+                    <constraint firstItem="ZG2-fp-lTj" firstAttribute="leading" secondItem="wbW-NG-Jkx" secondAttribute="trailing" constant="16" id="7wT-ec-n0e"/>
+                    <constraint firstAttribute="bottom" secondItem="wbW-NG-Jkx" secondAttribute="bottom" constant="16" id="8JR-fC-q96"/>
+                    <constraint firstItem="wbW-NG-Jkx" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="9W2-Uu-L8g"/>
+                    <constraint firstItem="wbW-NG-Jkx" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="16" id="ECQ-d6-Zbj"/>
+                    <constraint firstAttribute="trailing" secondItem="BfU-MJ-qkJ" secondAttribute="trailing" constant="16" id="biw-yw-yrA"/>
+                    <constraint firstItem="ZG2-fp-lTj" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="16" id="cdp-Y1-TbZ"/>
+                    <constraint firstAttribute="trailing" secondItem="lYJ-ve-aBx" secondAttribute="trailing" id="e6c-hK-CWQ"/>
+                    <constraint firstAttribute="bottom" secondItem="lYJ-ve-aBx" secondAttribute="bottom" id="g99-JC-oiQ"/>
+                    <constraint firstItem="ZG2-fp-lTj" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="pIj-LC-yhP"/>
+                    <constraint firstItem="BfU-MJ-qkJ" firstAttribute="leading" secondItem="ZG2-fp-lTj" secondAttribute="trailing" constant="16" id="ycJ-f6-uG1"/>
+                    <constraint firstItem="lYJ-ve-aBx" firstAttribute="top" secondItem="ZG2-fp-lTj" secondAttribute="bottom" constant="15" id="zkd-jj-uwb"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="badgeIndicatorView" destination="wbW-NG-Jkx" id="qgc-8L-8lP"/>
+                <outlet property="badgeName" destination="ZG2-fp-lTj" id="g5Q-ba-FK6"/>
+            </connections>
+            <point key="canvasLocation" x="-62" y="114"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="forwardIcon" width="32" height="32"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
